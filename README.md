@@ -6,8 +6,8 @@ You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful
 
 ## Author
 
-### Aaron Long
+### John Sutherland
 
-- [GitHub Profile](https://github.com/aaronlng/)
+- https://en.wikipedia.org/wiki/Magic_8_Ball
 
-- Twitter: [@aaronlng](https://twitter.com/aaronlng)
+- https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet
