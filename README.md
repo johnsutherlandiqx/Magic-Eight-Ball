@@ -21,6 +21,7 @@ You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful
 - randomNumber
 - Switch ... if / else if / else
 
+### Attachments
 - https://en.wikipedia.org/wiki/Magic_8_Ball
 
 - https://www.codecademy.com/resources/docs/javascript/switch
