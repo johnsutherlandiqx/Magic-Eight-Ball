@@ -10,4 +10,6 @@ You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful
 
 - https://en.wikipedia.org/wiki/Magic_8_Ball
 
+- https://www.codecademy.com/resources/docs/javascript/switch
+
 - https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet
