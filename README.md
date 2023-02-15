@@ -8,6 +8,19 @@ You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful
 
 ### John Sutherland
 
+### Aim
+- Random result generator
+
+### Method
+- Variables
+- Tenary expression
+- String interpolation#
+- Condition
+- Math library = Math.floor, Math.random
+- Empty string
+- randomNumber
+- Switch ... if / else if / else
+
 - https://en.wikipedia.org/wiki/Magic_8_Ball
 
 - https://www.codecademy.com/resources/docs/javascript/switch
